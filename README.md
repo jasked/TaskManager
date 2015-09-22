@@ -1,0 +1,3 @@
+# TaskManager
+任务管理平台
+使用TaskManager爬取2万条代理IP实现自动投票功能
